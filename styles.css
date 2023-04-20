@@ -1,1 +1,20 @@
 /* your code */
+*{
+	margin: 0;
+	padding: 0;
+}
+table{
+	width: 100%;
+	border-collapse: collapse;
+}
+thead tr{
+	background-color: #215A8E;
+	color: white;
+}
+th, td{
+	text-align: left;
+	padding: 10px;
+}
+.row2, .row4{
+	background-color: #DDDDDD;
+}
